@@ -1,5 +1,8 @@
 ﻿
 #include<iostream>
+#include<string>
+
+
 #include"IDataStorage.h"
 #include "HDD.h"
 #include"MD.h"
@@ -27,16 +30,20 @@ int main()
 
         switch (selectMenu) {
         case '1': // 1. HDD
+            HDD();
             break;
         case '2': // 2. SSD
+            SSD();
             break;
         case '3': // 3. Floppy
+            void Floppy() ;
             break;
         case '4': // 4. DVD
             break;
         case '5': // 5. CD
             break;
         case '6': // 6. Flach
+            Flach() ;
             break;
         case '7': // 7. MD
             break;

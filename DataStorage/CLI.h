@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <string>
+#include"HDD.h"
 
 
 
@@ -11,7 +12,7 @@ void PrintWelcome()
 {
     cout << "=======================" << endl;
     cout << "====== DataStage ======" << endl;
-    cout << "= (c) STEP IT Academy =" << endl;    
+    cout << "= Ovscharenko Wladislav =" << endl;    
     cout << "=======================" << endl;
     cout << endl;
 }
