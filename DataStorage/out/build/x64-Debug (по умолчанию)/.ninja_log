@@ -1,3 +1,5 @@
 # ninja log v5
 0	1304	634828794	CMakeFiles/DataStorage.dir/DataStorage.cpp.obj	db177998505595fc
 1306	2285	634828795	DataStorage.exe	e015cae8506c1a5c
+1	1132	634829500	CMakeFiles/DataStorage.dir/DataStorage.cpp.obj	db177998505595fc
+1208	1431	634829500	DataStorage.exe	e015cae8506c1a5c
