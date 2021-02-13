@@ -5,7 +5,7 @@
 
 using  namespace std;
 void HDD(){
-class HDD
+class HDD :IStorage
 {
 	string Reading;
 	string Output;

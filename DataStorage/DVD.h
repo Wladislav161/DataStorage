@@ -4,7 +4,7 @@
 
 
 void DVD() {
-	class DVD
+	class DVD:IStorage
 	{
 		string Reading;
 		string Output;

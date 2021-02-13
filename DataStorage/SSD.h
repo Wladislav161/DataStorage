@@ -4,7 +4,7 @@
 
 void SSD()
 {
-	class SSD {
+	class SSD :IStorage {
 		string Reading;
 		string Output;
 		string Recording;

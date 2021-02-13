@@ -6,7 +6,7 @@
 
 void Flach()
 {
-	class Flach {
+	class Flach :IStorage {
 
 		string Reading;
 		string Output;

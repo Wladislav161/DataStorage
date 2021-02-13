@@ -3,7 +3,7 @@
 #include"IDataStorage.h"
 
 void MD() {
-	class MD
+	class MD :IStorage
 	{
 		string Reading;
 		string Output;

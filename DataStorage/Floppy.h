@@ -6,7 +6,7 @@
 using namespace std;
 void Floppy()
 {
-	class FLoppy {
+	class FLoppy :IStorage {
 		string Reading;
 		string Output;
 		string Recording;
