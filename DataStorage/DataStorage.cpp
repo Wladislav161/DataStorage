@@ -39,13 +39,16 @@ int main()
             void Floppy() ;
             break;
         case '4': // 4. DVD
+            DVD();
             break;
         case '5': // 5. CD
+            CD() ;
             break;
         case '6': // 6. Flach
             Flach() ;
             break;
         case '7': // 7. MD
+            MD();
             break;
 
         case '0': // 0. Выход
