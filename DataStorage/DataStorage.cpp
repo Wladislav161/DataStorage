@@ -36,7 +36,7 @@ int main()
             SSD();
             break;
         case '3': // 3. Floppy
-            void Floppy() ;
+            Floppy();
             break;
         case '4': // 4. DVD
             DVD();

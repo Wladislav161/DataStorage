@@ -12,5 +12,6 @@ public:
 	void virtual Recording(double fiele)=0;
 	void virtual Delection()=0;
 	
+	
 private:
 };
